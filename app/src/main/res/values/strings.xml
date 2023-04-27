@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">RadioStationApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string-array name="video_urls">
+        <item>https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4</item>
+        <item>https://storage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4</item>
+        <item>https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4</item>
+        <item>https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4</item>
+        <item>https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4</item>
+        <item>https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4</item>
+        <item>https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4</item>
+        <item>https://storage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4</item>
+        <item>https://storage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4</item>
+    </string-array>
+
+    <string-array name="video_names">
+        <item>Big Buck Bunny</item>
+        <item>Elephants Dream</item>
+        <item>For Bigger Blazes</item>
+        <item>For Bigger Escapes</item>
+        <item>For Bigger Fun</item>
+        <item>For Bigger Joyrides</item>
+        <item>For Bigger Meltdowns</item>
+        <item>Subaru Outback On Street And Dirt</item>
+        <item>Tears of Steel</item>
+    </string-array>
+
+</resources>
